@@ -1,0 +1,12 @@
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\bin\Debug\LuaInterpreter.exe.config
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\bin\Debug\LuaInterpreter.exe
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\bin\Debug\LuaInterpreter.pdb
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\bin\Debug\lua51.dll
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\bin\Debug\LuaInterface.dll
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\obj\Debug\LuaInterpreter.csprojResolveAssemblyReference.cache
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\obj\Debug\LuaInterpreter.Form1.resources
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\obj\Debug\LuaInterpreter.Properties.Resources.resources
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\obj\Debug\LuaInterpreter.csproj.GenerateResource.Cache
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\obj\Debug\LuaInterpreter.exe
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\obj\Debug\LuaInterpreter.pdb
+c:\users\ithamar\documents\visual studio 2015\Projects\LuaInterpreter\LuaInterpreter\bin\Debug\DynamicLua.dll
